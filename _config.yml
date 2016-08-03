@@ -6,9 +6,10 @@ color:
   saturation: 0.5447533701080829
   rhythmicContrast: 0.8382172358687967
   brandColors:
-    - '#3F4040'
-    - '#1AA7C8'
-    - '#A9CF39'
-    - '#000000'
-    - '#008080'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Lightning Jar
+title: Lightning Jar
