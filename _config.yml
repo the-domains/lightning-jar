@@ -1,0 +1,14 @@
+layout_spectrum: 0.6524718592409045
+typography_spectrum: 0.025441777426749468
+color:
+  brandStrength: 0.7978262698743492
+  lightness: 0.7204317566938698
+  saturation: 0.5447533701080829
+  rhythmicContrast: 0.8382172358687967
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Lightning Jar
